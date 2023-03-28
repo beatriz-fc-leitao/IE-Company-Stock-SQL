@@ -1,4 +1,4 @@
-# 📈 IE-Company-Stock-SQL
+# 📈 IE Company Stock: SQL Project
 
 ## 👋 Introduction
 	  
