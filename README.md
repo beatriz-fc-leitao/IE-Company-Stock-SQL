@@ -201,14 +201,11 @@ ADD FOREIGN KEY (COMPANY)
 REFERENCES company(ID)
 ON DELETE CASCADE
 ```
-<details> 
-<summary>
-Click here to see the Entity Relationship Diagram created based on the referential integrity rules defined above.
-</summary>
+Below you can see the Entity Relationship Diagram created based on the referential integrity rules defined above.
 	
-<kbd><img src="https://github.com/beatriz-fc-leitao/SQL_projects/blob/main/final_ERD.png" width="750" height="480"></kbd>
+<kbd><img src="https://github.com/beatriz-fc-leitao/IE-Company-Stock-SQL/blob/main/IE_company_ERD.png" width="400" height="480"></kbd>
 
-You can also find it here: https://github.com/beatriz-fc-leitao/SQL_Fashion_Shop_Analysis/blob/main/fashion_retail_data_model.mwb
+You can also find it [here](https://github.com/beatriz-fc-leitao/IE-Company-Stock-SQL/blob/main/IE_company_ERD.mwb)
 
 </details> 
 
