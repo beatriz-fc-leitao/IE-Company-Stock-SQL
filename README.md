@@ -26,7 +26,7 @@ The CSV files in this repository each contain one company’s stock prices betwe
 	•	Closeprice: closing stock value & the end of instance
 	•	Volume: volume of stocks handled during instance
   
-  ## 🗄️ The Project
+  ## 🗄️ Project
   The project is separated into the 11 questions / sections below.
   
 **QUESTION 1**
